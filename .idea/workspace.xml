@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3ecdca3-08d7-4e00-9b5d-96efd5ca806f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/bean/Vegetables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/config/VegetablesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/resources/vegetables.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/DemoApplicaion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/bean/Food.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/bean/Vegetables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/config/FoodConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/config/VegetablesConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/controller/JSONController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/vegetables.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/spring-boot-huang-02-configuration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/spring-boot-huang-02-configuration.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/bean/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/bean/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/controller/JSONController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/controller/JSONController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-    </list>
+    <list default="true" id="f3ecdca3-08d7-4e00-9b5d-96efd5ca806f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,5 +136,9 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring-boot-huang-02-configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-boot-huang-02-configuration" />
   </component>
 </project>

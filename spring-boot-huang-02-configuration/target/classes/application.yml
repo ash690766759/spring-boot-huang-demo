@@ -1,0 +1,27 @@
+
+food:
+  meat: 烤肉
+  rice: 拌饭
+
+#流式语法   使用冒号/缩进/流式（key: {key:value,key:value}）
+vegetables: {potato: 土豆,eggplant: 茄子}
+
+spring:
+  profiles:
+    active: prod
+
+---
+#开发环境
+spring:
+  profiles: dev
+
+server:
+  port: 8090
+
+---
+#生产环境
+spring:
+  profiles: prod
+
+server:
+  port: 8090

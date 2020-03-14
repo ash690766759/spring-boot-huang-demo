@@ -1,7 +1,9 @@
 package com.huang.controller;
 
 import com.huang.bean.Food;
+import com.huang.bean.Vegetables;
 import com.huang.config.FoodConfig;
+import com.huang.config.VegetablesConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -11,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @RestCcontroller 返回JSON形式的字符串    而不是视图（html/jsp）
+ * @RestController 返回JSON形式的字符串    而不是视图（html/jsp）
  *                  = @Controller + @Responsebody*/
 @RestController
 
@@ -29,6 +31,14 @@ public class JSONController {
     @RequestMapping("/json")
     public Food json(){
         return new Food(foodConfig.getRice(),foodConfig.getMeat());
+    }
+
+    @Autowired
+    public VegetablesConfig vegetablesConfig;
+
+    @RequestMapping("/vegetables")
+    public Vegetables vege(){
+        return new Vegetables(vegetablesConfig.getPotato(),vegetablesConfig.getEggplant(),vegetablesConfig.getGreenpeper());
     }
 
 }

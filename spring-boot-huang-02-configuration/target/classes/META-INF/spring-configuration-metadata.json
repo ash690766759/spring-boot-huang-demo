@@ -4,6 +4,11 @@
       "name": "food",
       "type": "com.huang.config.FoodConfig",
       "sourceType": "com.huang.config.FoodConfig"
+    },
+    {
+      "name": "vegetables",
+      "type": "com.huang.config.VegetablesConfig",
+      "sourceType": "com.huang.config.VegetablesConfig"
     }
   ],
   "properties": [
@@ -16,6 +21,21 @@
       "name": "food.rice",
       "type": "java.lang.String",
       "sourceType": "com.huang.config.FoodConfig"
+    },
+    {
+      "name": "vegetables.eggplant",
+      "type": "java.lang.String",
+      "sourceType": "com.huang.config.VegetablesConfig"
+    },
+    {
+      "name": "vegetables.greenpeper",
+      "type": "java.lang.String",
+      "sourceType": "com.huang.config.VegetablesConfig"
+    },
+    {
+      "name": "vegetables.potato",
+      "type": "java.lang.String",
+      "sourceType": "com.huang.config.VegetablesConfig"
     }
   ],
   "hints": []

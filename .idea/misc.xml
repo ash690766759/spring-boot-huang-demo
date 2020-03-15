@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spring-boot-huang-02-configuration/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-huang-03-template/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-03-restful/pom.xml" />
       </list>
     </option>
   </component>

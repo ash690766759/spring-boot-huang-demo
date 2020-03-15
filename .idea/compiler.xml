@@ -11,11 +11,13 @@
         <module name="spring-boot-huang-02-configuration" />
         <module name="spring-boot-huang-03-template" />
         <module name="spring-boot-huang-03-thymeleaf-curd" />
+        <module name="spring-boot-huang-03-restful" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-huang-01-helloworld" target="1.8" />
       <module name="spring-boot-huang-02-configuration" target="1.8" />
+      <module name="spring-boot-huang-03-restful" target="1.8" />
       <module name="spring-boot-huang-03-template" target="1.8" />
       <module name="spring-boot-huang-03-thymeleaf-curd" target="1.8" />
     </bytecodeTargetLevel>
@@ -24,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-huang-01-helloworld" options="-parameters" />
       <module name="spring-boot-huang-02-configuration" options="-parameters" />
+      <module name="spring-boot-huang-03-restful" options="-parameters" />
       <module name="spring-boot-huang-03-template" options="-parameters" />
       <module name="spring-boot-huang-03-thymeleaf-curd" options="-parameters" />
     </option>

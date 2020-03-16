@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-03-restful/spring-boot-huang-03-restful.iml" filepath="$PROJECT_DIR$/spring-boot-huang-03-restful/spring-boot-huang-03-restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-03-template/spring-boot-huang-03-template.iml" filepath="$PROJECT_DIR$/spring-boot-huang-03-template/spring-boot-huang-03-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/spring-boot-huang-03-thymeleaf-curd.iml" filepath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/spring-boot-huang-03-thymeleaf-curd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/spring-boot-huang-04-orm-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/spring-boot-huang-04-orm-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-demo.iml" filepath="$PROJECT_DIR$/spring-boot-huang-demo.iml" />
     </modules>
   </component>

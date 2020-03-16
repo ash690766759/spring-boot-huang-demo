@@ -1,8 +1,6 @@
-package com.huang.bean;
+package com.huang.model;
 
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 
 /**
  * 数据接收类*/

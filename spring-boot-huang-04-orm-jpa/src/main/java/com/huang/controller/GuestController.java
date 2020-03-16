@@ -1,6 +1,5 @@
 package com.huang.controller;
 
-import com.huang.bean.Guest;
 import com.huang.service.GuestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

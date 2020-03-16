@@ -1,6 +1,6 @@
-package com.huang.dao;
+package com.huang.mapper;
 
-import com.huang.bean.Guest;
+import com.huang.model.Guest;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

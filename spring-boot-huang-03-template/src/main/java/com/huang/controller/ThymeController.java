@@ -1,6 +1,6 @@
 package com.huang.controller;
 
-import com.huang.bean.Reataurant;
+import com.huang.model.Reataurant;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

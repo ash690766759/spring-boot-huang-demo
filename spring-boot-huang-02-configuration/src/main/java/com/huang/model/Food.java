@@ -1,4 +1,4 @@
-package com.huang.bean;
+package com.huang.model;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -13,6 +13,7 @@
         <module name="spring-boot-huang-03-thymeleaf-curd" />
         <module name="spring-boot-huang-01-helloworld" />
         <module name="spring-boot-huang-02-configuration" />
+        <module name="spring-boot-huang-04-orm-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

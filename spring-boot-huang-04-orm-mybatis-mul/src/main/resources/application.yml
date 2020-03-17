@@ -1,0 +1,17 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    db1:
+      jdbc-url: jdbc:mysql://localhost:3306/testmybatis?serverTimezone=UTC
+      username: root
+      password: root
+    db2:
+      jdbc-url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+      username: root
+      password: root
+
+#mybatis:
+#  mapper-locations: classpath*:mybatis/mapper/*.xml
+#  type-aliases-package: com.huang.model

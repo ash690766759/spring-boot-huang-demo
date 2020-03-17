@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-04-orm-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/sping-boot-huang-04-orm-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-mybatis-tk/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/pom.xml" />
       </list>
     </option>
   </component>

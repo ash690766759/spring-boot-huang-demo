@@ -7,6 +7,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
 /**
  * 业务控制类    返回视图*/
 @Controller
@@ -37,6 +41,7 @@ public class GuestController {
     public String toUpdate(Model model,String name){
         Guest g = service.get(name);
         model.addAttribute("guest",g);
+
         return "update";
     }
 

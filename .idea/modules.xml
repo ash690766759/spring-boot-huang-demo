@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/spring-boot-huang-04-orm-mybatis-mul.iml" filepath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/spring-boot-huang-04-orm-mybatis-mul.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/spring-boot-huang-04-orm-mybatis-plus.iml" filepath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/spring-boot-huang-04-orm-mybatis-plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/spring-boot-huang-04-orm-mybatis-tk.iml" filepath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/spring-boot-huang-04-orm-mybatis-tk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-05-event-listrner/spring-boot-huang-05-event-listrner.iml" filepath="$PROJECT_DIR$/spring-boot-huang-05-event-listrner/spring-boot-huang-05-event-listrner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-05-web-container/spring-boot-huang-05-web-container.iml" filepath="$PROJECT_DIR$/spring-boot-huang-05-web-container/spring-boot-huang-05-web-container.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-demo.iml" filepath="$PROJECT_DIR$/spring-boot-huang-demo.iml" />
     </modules>
   </component>

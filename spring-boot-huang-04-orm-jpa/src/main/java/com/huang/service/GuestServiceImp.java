@@ -16,5 +16,6 @@ public class GuestServiceImp implements GuestService {
     @Override
     public List<Guest> list() {
         return repository.findAll();
+
     }
 }

@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/spring-boot-huang-04-orm-mybatis-tk.iml" filepath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/spring-boot-huang-04-orm-mybatis-tk.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-05-event-listrner/spring-boot-huang-05-event-listrner.iml" filepath="$PROJECT_DIR$/spring-boot-huang-05-event-listrner/spring-boot-huang-05-event-listrner.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-05-web-container/spring-boot-huang-05-web-container.iml" filepath="$PROJECT_DIR$/spring-boot-huang-05-web-container/spring-boot-huang-05-web-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-06-error-exception/spring-boot-huang-06-error-exception.iml" filepath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/spring-boot-huang-06-error-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-06-logging/spring-boot-huang-06-logging.iml" filepath="$PROJECT_DIR$/spring-boot-huang-06-logging/spring-boot-huang-06-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-06-servlet/spring-boot-huang-06-servlet.iml" filepath="$PROJECT_DIR$/spring-boot-huang-06-servlet/spring-boot-huang-06-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-huang-demo.iml" filepath="$PROJECT_DIR$/spring-boot-huang-demo.iml" />
     </modules>
   </component>

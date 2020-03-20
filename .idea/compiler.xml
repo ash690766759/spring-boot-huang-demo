@@ -7,17 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-huang-02-configuration" />
+        <module name="spring-boot-huang-03-thymeleaf-curd" />
+        <module name="spring-boot-huang-06-servlet" />
         <module name="spring-boot-huang-04-orm-jpa" />
         <module name="spring-boot-huang-04-orm-mybatis-mul" />
-        <module name="spring-boot-huang-04-orm-mybatis-tk" />
+        <module name="spring-boot-huang-01-helloworld" />
+        <module name="spring-boot-huang-06-logging" />
         <module name="spring-boot-huang-03-template" />
         <module name="spring-boot-huang-04-orm-mybatis-plus" />
-        <module name="spring-boot-huang-03-restful" />
-        <module name="spring-boot-huang-01-helloworld" />
-        <module name="spring-boot-huang-03-thymeleaf-curd" />
-        <module name="spring-boot-huang-02-configuration" />
         <module name="spring-boot-huang-04-orm-mybatis" />
+        <module name="spring-boot-huang-04-orm-mybatis-tk" />
+        <module name="spring-boot-huang-03-restful" />
         <module name="spring-boot-huang-05-event-listrner" />
+        <module name="spring-boot-huang-06-error-exception" />
         <module name="spring-boot-huang-05-web-container" />
       </profile>
     </annotationProcessing>
@@ -34,6 +37,9 @@
       <module name="spring-boot-huang-04-orm-mybatis-tk" target="1.8" />
       <module name="spring-boot-huang-05-event-listrner" target="1.8" />
       <module name="spring-boot-huang-05-web-container" target="1.8" />
+      <module name="spring-boot-huang-06-error-exception" target="1.8" />
+      <module name="spring-boot-huang-06-logging" target="1.8" />
+      <module name="spring-boot-huang-06-servlet" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -50,6 +56,9 @@
       <module name="spring-boot-huang-04-orm-mybatis-tk" options="-parameters" />
       <module name="spring-boot-huang-05-event-listrner" options="-parameters" />
       <module name="spring-boot-huang-05-web-container" options="-parameters" />
+      <module name="spring-boot-huang-06-error-exception" options="-parameters" />
+      <module name="spring-boot-huang-06-logging" options="-parameters" />
+      <module name="spring-boot-huang-06-servlet" options="-parameters" />
     </option>
   </component>
 </project>

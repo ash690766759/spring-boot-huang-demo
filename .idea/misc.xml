@@ -16,6 +16,9 @@
         <option value="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-huang-05-event-listrner/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-huang-05-web-container/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-06-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-06-error-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-06-logging/pom.xml" />
       </list>
     </option>
   </component>

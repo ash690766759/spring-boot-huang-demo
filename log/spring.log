@@ -1,0 +1,20 @@
+2020-03-20 22:43:38.797  INFO 6420 --- [main] com.huang.LoggingApplication             : Starting LoggingApplication on Lenovo-PC with PID 6420 (started by lenovo in D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo)
+2020-03-20 22:43:38.797  INFO 6420 --- [main] com.huang.LoggingApplication             : No active profile set, falling back to default profiles: default
+2020-03-20 22:43:44.562  INFO 6420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-20 22:43:44.609  INFO 6420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-20 22:43:44.609  INFO 6420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-20 22:43:45.187  INFO 6420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-20 22:43:45.187  INFO 6420 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 6140 ms
+2020-03-20 22:43:46.343  INFO 6420 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-20 22:43:47.000  INFO 6420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-20 22:43:47.000  INFO 6420 --- [main] com.huang.LoggingApplication             : Started LoggingApplication in 9.973 seconds (JVM running for 11.856)
+2020-03-20 22:44:08.518  INFO 8980 --- [main] com.huang.LoggingApplication             : Starting LoggingApplication on Lenovo-PC with PID 8980 (started by lenovo in D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo)
+2020-03-20 22:44:08.534  INFO 8980 --- [main] com.huang.LoggingApplication             : No active profile set, falling back to default profiles: default
+2020-03-20 22:44:14.399  INFO 8980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-20 22:44:14.461  INFO 8980 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-20 22:44:14.461  INFO 8980 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-20 22:44:15.383  INFO 8980 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-20 22:44:15.399  INFO 8980 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 6583 ms
+2020-03-20 22:44:16.508  INFO 8980 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-20 22:44:17.180  INFO 8980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-20 22:44:17.196  INFO 8980 --- [main] com.huang.LoggingApplication             : Started LoggingApplication in 10.4 seconds (JVM running for 11.881)

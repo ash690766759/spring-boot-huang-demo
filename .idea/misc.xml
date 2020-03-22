@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/spring-boot-huang-06-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-huang-06-error-exception/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-huang-06-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-06-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-huang-08-actuator/pom.xml" />
       </list>
     </option>
   </component>

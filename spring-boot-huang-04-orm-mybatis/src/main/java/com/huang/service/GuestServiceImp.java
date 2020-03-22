@@ -1,6 +1,6 @@
 package com.huang.service;
 
-import com.huang.model.Guest;
+import com.huang.bean.Guest;
 import com.huang.mapper.GuestMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

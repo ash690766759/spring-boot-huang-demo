@@ -1,6 +1,6 @@
 package com.huang.mapper2;
 
-import com.huang.model.Guest;
+import com.huang.bean.Guest;
 import org.apache.ibatis.annotations.Select;
 
 import java.util.List;

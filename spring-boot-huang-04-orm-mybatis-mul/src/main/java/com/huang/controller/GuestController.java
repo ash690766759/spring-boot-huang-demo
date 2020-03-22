@@ -1,6 +1,6 @@
 package com.huang.controller;
 
-import com.huang.model.Guest;
+import com.huang.bean.Guest;
 import com.huang.service.GuestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -8,10 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-
-import java.beans.Transient;
 
 /**
  * 业务控制类    返回视图

@@ -1,6 +1,6 @@
 package com.huang.service;
 
-import com.huang.model.Guest;
+import com.huang.bean.Guest;
 
 import java.util.List;
 

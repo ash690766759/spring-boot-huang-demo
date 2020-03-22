@@ -4,7 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
     <typeAliases>
-        <package name="com.huang.model"/>
+        <package name="com.huang.bean"/>
     </typeAliases>
     <mappers>
         <mapper resource="mybatis/mapper/GuestMapper.xml"/>

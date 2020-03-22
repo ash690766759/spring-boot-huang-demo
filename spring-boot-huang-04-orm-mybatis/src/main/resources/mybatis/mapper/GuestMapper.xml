@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.huang.mapper.GuestMapper">
-    <select id="list" resultType="com.huang.model.Guest">
+    <select id="list" resultType="com.huang.bean.Guest">
         select name,role from guest
     </select>
 </mapper>

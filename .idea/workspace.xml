@@ -1,60 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3ecdca3-08d7-4e00-9b5d-96efd5ca806f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/spring.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/EeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/GuestValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/controller/CustomizerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/controller/GuestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/customizer/MyCustomizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/handle/MyExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/java/com/huang/resolver/MyErrorViewResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/ValidationMessages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/public/error/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/templates.resolver/error404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/templates.resolver/resolver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/templates/error/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/main/resources/templates/error/error1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-error-exception/src/test/java/com/huang/EeApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/src/main/java/com/huang/LoggingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-logging/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/ServletApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/config/FilterConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/config/InteceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/controller/ServletController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/filter/CustomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/filter/CustomFilter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/java/com/huang/inteceptor/CustomInteceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-servlet/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="f3ecdca3-08d7-4e00-9b5d-96efd5ca806f" name="Default Changelist" comment="spring-boot-huang-06-logging">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ulisesbocchio_jasypt_spring_boot_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ulisesbocchio_jasypt_spring_boot_starter_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasypt_jasypt_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/util/JasyptUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/src/main/java/com/huang/SwaggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/src/main/java/com/huang/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/src/main/java/com/huang/controller/GuestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-06-swagger/src/test/java/com/huang/SwaggerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-07-groovy-cli/spring-boot-huang-07-groovy-cli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-07-groovy-cli/src/Hello.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-07-groovy-cli/src/HelloCli.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-07-groovy-cli/src/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/src/main/java/com/huang/ActuatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/src/main/java/com/huang/endpoint/CustomPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/src/main/java/com/huang/health/CustomHealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-huang-08-actuator/src/test/java/com/huang/ActuatorApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/spring-boot-huang-02-configuration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/spring-boot-huang-02-configuration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/controller/JSONController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/controller/JSONController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/bean/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/model/Vegetables.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/java/com/huang/bean/Vegetables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/controller/JSONController.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-02-configuration/target/classes/com/huang/controller/JSONController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/controller/GuestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/controller/GuestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/mapper/GuestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/mapper/GuestDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-restful/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-template/src/main/java/com/huang/controller/ThymeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-template/src/main/java/com/huang/controller/ThymeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-template/src/main/java/com/huang/model/Reataurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-template/src/main/java/com/huang/bean/Reataurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/controller/GuestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/controller/GuestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/mapper/GuestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/mapper/GuestDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-03-thymeleaf-curd/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/repository/GuestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/repository/GuestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-jpa/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/controller/GuestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/controller/GuestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/mapper/GuestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/mapper/GuestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/mapper2/GuestMapper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/mapper2/GuestMapper2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-mul/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/mapper/GuestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/mapper/GuestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-plus/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/tkmapper/GuestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis-tk/src/main/java/com/huang/tkmapper/GuestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/mapper/GuestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/mapper/GuestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/model/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/bean/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/service/GuestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/service/GuestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/service/GuestServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/java/com/huang/service/GuestServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/resources/mybatis-cinfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/resources/mybatis-cinfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/resources/mybatis/mapper/GuestMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-huang-04-orm-mybatis/src/main/resources/mybatis/mapper/GuestMapper.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +114,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -99,14 +145,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SpringMVC/test/TestSpringMVC" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-06-error-exception\src\main\resources\templates\error" />
+      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-06-error-exception\src\main\resources\templates.resolver" />
+      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-04-orm-mybatis\src\main\resources\mybatis\mapper" />
+      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-03-thymeleaf-curd\src\main\resources\templates\guest" />
+      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-03-template\src\main\resources\templates\freemarker" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.huang" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huang.model" />
+      <recent name="com.huang.controller" />
+      <recent name="com.huang" />
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-04-orm-mybatis-mul\src\main\resources\templates" />
@@ -114,17 +173,6 @@
       <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-04-orm-mybatis-mul\src\main\java\com\huang" />
       <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-04-orm-mybatis-multiple" />
       <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-04-orm-mybatis-plus\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.huang" />
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-06-error-exception\src\main\resources\templates\error" />
-      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-06-error-exception\src\main\resources\templates.resolver" />
-      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-04-orm-mybatis\src\main\resources\mybatis\mapper" />
-      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-03-thymeleaf-curd\src\main\resources\templates\guest" />
-      <recent name="D:\渡一教育\level two\SpringBoot\test\spring-boot-huang-demo\spring-boot-huang-03-template\src\main\resources\templates\freemarker" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,49 +187,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoggingApplication">
-    <configuration name="ContainerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huang.ContainerApplication" />
-      <module name="spring-boot-huang-05-web-container" />
+  <component name="RunManager" selected="Application.ActuatorApplication">
+    <configuration name="ActuatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huang.ActuatorApplication" />
+      <module name="spring-boot-huang-08-actuator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huang.EeApplication" />
-      <module name="spring-boot-huang-06-error-exception" />
+    <configuration name="DemoApplicaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huang.DemoApplicaion" />
+      <module name="spring-boot-huang-02-configuration" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuestValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huang.GuestValid" />
-      <module name="spring-boot-huang-06-error-exception" />
+    <configuration name="JasyptUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huang.util.JasyptUtil" />
+      <module name="spring-boot-huang-02-configuration" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huang.LoggingApplication" />
-      <module name="spring-boot-huang-06-logging" />
+    <configuration name="SwaggerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huang.SwaggerApplication" />
+      <module name="spring-boot-huang-06-swagger" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServletApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huang.ServletApplication" />
-      <module name="spring-boot-huang-06-servlet" />
+    <configuration name="Hello" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="spring-boot-huang-07-groovy-cli" />
+      <setting name="path" value="file://$PROJECT_DIR$/spring-boot-huang-07-groovy-cli/src/Hello.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/spring-boot-huang-07-groovy-cli/src" />
+      <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoggingApplication" />
-        <item itemvalue="Application.EeApplication" />
-        <item itemvalue="Application.GuestValid" />
-        <item itemvalue="Application.ServletApplication" />
-        <item itemvalue="Application.ContainerApplication" />
+        <item itemvalue="Application.ActuatorApplication" />
+        <item itemvalue="Application.DemoApplicaion" />
+        <item itemvalue="Application.JasyptUtil" />
+        <item itemvalue="Groovy.Hello" />
+        <item itemvalue="Application.SwaggerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +296,8 @@
     <MESSAGE value="spring-boot-huang-04-orm-mybatis" />
     <MESSAGE value="spring-boot-huang-04-orm-mybatis-add" />
     <MESSAGE value="spring-boot-huang-05-web-container" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring-boot-huang-05-web-container" />
+    <MESSAGE value="spring-boot-huang-06-logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-boot-huang-06-logging" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

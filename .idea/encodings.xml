@@ -16,5 +16,7 @@
     <file url="file://$PROJECT_DIR$/spring-boot-huang-06-error-exception" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-huang-06-logging" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-huang-06-servlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-huang-06-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-huang-08-actuator" charset="UTF-8" />
   </component>
 </project>
